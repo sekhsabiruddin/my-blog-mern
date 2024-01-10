@@ -1,0 +1,14 @@
+form {
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  padding: 2rem 2rem;
+}
+form input,
+textarea {
+  border: 1px solid #ddd;
+  width: 100%;
+}
+form input#fileInput {
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
